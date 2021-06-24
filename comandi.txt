@@ -1,0 +1,7 @@
+ Id CommandLine
+  -- -----------
+   1 cd src
+   2 cd app
+   3 ng g component product-alerts
+   4 npm run ng g component product-alerts
+   5 npm run ng g component product-al
